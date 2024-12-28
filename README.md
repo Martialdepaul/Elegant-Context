@@ -79,11 +79,3 @@ Quelques idées pour l'avenir du projet :
 Ce projet est sous la [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-
-### 🎨 **Quelques captures d'écran** (facultatif)
-
-Si tu as des captures d'écran de l'application, il est conseillé de les ajouter ici pour montrer l'apparence de l'application. Par exemple :
-
-```markdown
-![Exemple d'application](https://url-to-image.com)
-```
