@@ -24,7 +24,7 @@
 
 Voici un aperçu de ce que l'application **Elegant-Context** offre. 
 
-![Aperçu de l'application](https://url-to-your-screenshot.com)  
+![Aperçu de Elegant-Context](./src/assets/img.png)
 _Exemple de l'interface utilisateur avec un contexte global pour la gestion de l'état_
 
 L'application utilise **`useContext`** et **`useReducer`** pour gérer l'état du panier de manière centralisée, tout en étant modulaire et réactive. Le design est simple mais élégant, avec une structure de projet claire et bien organisée. 
